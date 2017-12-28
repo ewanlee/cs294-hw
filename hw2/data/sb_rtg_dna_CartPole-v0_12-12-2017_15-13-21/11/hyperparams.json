@@ -1,0 +1,1 @@
+{"learning_rate": 0.005, "nn_baseline": false, "env_name": "CartPole-v0", "size": 32, "reward_to_go": true, "n_layers": 1, "discount": 1.0, "seed": 11, "n_iter": 100, "discrete": true, "batch_size": 1000, "normalize_advantages": false}
